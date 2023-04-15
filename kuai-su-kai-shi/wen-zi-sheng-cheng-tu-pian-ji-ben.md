@@ -1,4 +1,8 @@
-# 💡 文字生成圖片
+---
+description: You can generate an image from text (basic) using AI Painter.
+---
+
+# 💡 文字生成圖片（基本）
 
 ## 快速開始
 
