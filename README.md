@@ -14,6 +14,10 @@ The tutorial is being written...the contents will be enriched gradually.
 機畫師 基於開源的 Stable Diffusion 技術，搭建了一個APP服務器，和一個AI運算網絡，沒有使用雲服務器，所以成本會很低，訂閱費用也設置到了最低價。如果有任何不明白，APP優化建議推薦加入Discord討論。[https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)\
 Based on open source Stable Diffusion technology, Machine Artist set up an APP server and an AI computing network, without using cloud servers, so the cost is low and the subscription fee is set at the lowest price. If there is any confusion, APP optimization suggestions can join Discord discussion . [https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)
 
+{% content-ref url="kuai-su-kai-shi/chang-jian-wen-ti.md" %}
+[chang-jian-wen-ti.md](kuai-su-kai-shi/chang-jian-wen-ti.md)
+{% endcontent-ref %}
+
 ## 快速開始
 
 {% embed url="https://youtu.be/j7mOdyIrfh4?t=291" %}
