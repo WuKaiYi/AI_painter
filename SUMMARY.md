@@ -4,5 +4,5 @@
 
 ## 快速開始
 
-* [💡 文字生成圖片](kuai-su-kai-shi/wen-zi-sheng-cheng-tu-pian.md)
-* [🖼 圖轉圖](kuai-su-kai-shi/tu-zhuan-tu.md)
+* [💡 文字生成圖片（基本）](kuai-su-kai-shi/wen-zi-sheng-cheng-tu-pian-ji-ben.md)
+* [🖼 圖轉圖（基本）](kuai-su-kai-shi/tu-zhuan-tu-ji-ben.md)

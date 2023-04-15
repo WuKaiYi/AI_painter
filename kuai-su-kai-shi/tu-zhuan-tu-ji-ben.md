@@ -1,8 +1,6 @@
-# 🖼 圖轉圖
+# 🖼 圖轉圖（基本）
 
 ## 快速開始
-
-**快速開始**
 
 {% embed url="https://youtu.be/d2QVgR_nWqs" %}
 圖轉圖-普通模式
