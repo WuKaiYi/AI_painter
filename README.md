@@ -36,7 +36,7 @@ Based on open source Stable Diffusion technology, Machine Artist set up an APP s
 [tu-hui-tu-ji-ben.md](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
 {% endcontent-ref %}
 
-## english: 
+## English: 
 
 ## Introduction
 
