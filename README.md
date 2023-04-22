@@ -32,6 +32,6 @@ Based on open source Stable Diffusion technology, Machine Artist set up an APP s
 圖轉圖 基本使用
 {% endembed %}
 
-{% content-ref url="kuai-su-kai-shi/tu-zhuan-tu-ji-ben.md" %}
-[tu-zhuan-tu-ji-ben.md](kuai-su-kai-shi/tu-zhuan-tu-ji-ben.md)
+{% content-ref url="kuai-su-kai-shi/tu-hui-tu-ji-ben.md" %}
+[tu-hui-tu-ji-ben.md](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
 {% endcontent-ref %}
