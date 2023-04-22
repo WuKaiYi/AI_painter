@@ -36,73 +36,15 @@ Based on open source Stable Diffusion technology, Machine Artist set up an APP s
 [tu-hui-tu-ji-ben.md](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
 {% endcontent-ref %}
 
----
-description: Welcome to use AI Painter app.
----
+## english: 
 
-# 👋 Welcome to Machine Artist-AI Drawing App
+## Introduction
 
-{% hint style="info" %}
-**The tutorial is being written...the contents will be enriched gradually.** 
-教程正在编写中...内容会慢慢丰富。
-{% endhint %}
-
-## Overview
-
-Machine Artist is built on the open source Stable Diffusion technology, setting up an APP server and an AI computing network, without using cloud servers, so the cost is low and the subscription fee is set at the lowest price. If there are any questions, suggestions, or optimization requirements for the app, you can join the Discord discussion: [https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)
-
-{% content-ref url="en/quick-start/faq.md" %}
-[FAQ](en/quick-start/faq.md)
-{% endcontent-ref %}
+AI Painter is an AI drawing app based on open-source Stable Diffusion technology. It sets up an APP server and an AI computing network without using cloud servers, thus keeping the costs low and the subscription fee at its lowest. For any confusion, suggestions on app optimization can be discussed through Discord. [https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)
 
 ## Quick Start
 
-{% embed url="https://youtu.be/j7mOdyIrfh4?t=291" %}
-Quick start - Text-to-image generation + Basic operation
-{% endembed %}
+To quickly start using AI Painter, refer to the following links:
 
-{% content-ref url="en/quick-start/text-to-image-generation-basics.md" %}
-[Text-to-Image Generation (Basics)](en/quick-start/text-to-image-generation-basics.md)
-{% endcontent-ref %}
-
-{% embed url="https://youtu.be/d2QVgR_nWqs" %}
-Drawing (Basics)
-{% endembed %}
-
-{% content-ref url="en/quick-start/drawing-basics.md" %}
-[Drawing (Basics)](en/quick-start/drawing-basics.md)
-{% endcontent-ref %} 
-
-
-# 👋 機画師-AI お絵かきアプリをご利用いただきありがとうございます
-
-{% hint style="info" %}
-**チュートリアルは作成中です。コンテンツは少しずつ増やしていきます。**
-The tutorial is being written...the contents will be enriched gradually.
-{% endhint %}
-
-## 概要
-
-Machine Artistは、オープンソースのStable Diffusion技術に基づいて、APPサーバーとAIコンピューティングネットワークを設置しています。クラウドサーバーを使用していないため、コストが低く、定期購読料金を最低価格に設定しています。もし何か分からないことやアプリの最適化に関する提案があれば、Discordのディスカッションに参加することができます。[https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)
-
-{% content-ref url="jp/quick-start/faq.md" %}
-[FAQ](jp/quick-start/faq.md)
-{% endcontent-ref %}
-
-## クイックスタート
-
-{% embed url="https://youtu.be/j7mOdyIrfh4?t=291" %}
-クイックスタート-文字から画像生成+基本操作
-{% endembed %}
-
-{% content-ref url="jp/quick-start/text-to-image-generation-basics.md" %}
-[文字から画像生成（基本）](jp/quick-start/text-to-image-generation-basics.md)
-{% endcontent-ref %}
-
-{% embed url="https://youtu.be/d2QVgR_nWqs" %}
-お絵かき（基本）
-{% endembed %}
-
-{% content-ref url="jp/quick-start/drawing-basics.md" %}
-[お絵かき（基本）](jp/quick-start/drawing-basics.md)
-{% endcontent-ref %}
+- [Text to Image Generation and Basic Operation](kuai-su-kai-shi/wen-zi-sheng-cheng-tu-pian-ji-ben.md)
+- [Image Transformation and Basic Usage](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
