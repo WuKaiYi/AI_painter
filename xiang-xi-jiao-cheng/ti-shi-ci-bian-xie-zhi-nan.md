@@ -2,23 +2,25 @@
 description: Guide to Writing Prompts
 ---
 
-# 提示詞編寫指南
+# 提示词编写指南
 
 ## 機畫師 基於 Stable Diffusion 進行開發，因此大部分編寫規則與Stable Diffusion相同
 
+## Prompt等同於提示詞，是提示詞跟專業的表達，通常用於與各種AI應用溝通
+
 ### Ai繪圖通用prompt關鍵字規則
 
-在Stable Diffusion 等 AI繪圖中，正向prompt包括masterpiece, best quality等，可以用來描述畫質和畫面。反向prompt則包括nsfw（not safe for work）、lowres、bad anatomy等，可以根據畫面情況選擇不想出現的畫面。
+在AI繪圖中，正向prompt包括masterpiece, best quality等，可以用來描述畫質和畫面。反向prompt則包括nsfw（not safe for work）、lowres、bad anatomy等，可以根據畫面情況選擇不想出現的畫面。
 
 **prompt權重：**越靠前的prompt權重越大。例如，若將景色prompt放在前面，則人物會相對較小；反之，人物會變大或呈現半身狀態。
 
 **圖片大小對Prompt效果的影響：**圖片越大，則需要更多的Prompt，否則Prompt可能會相互污染。
 
-**prompt權重調整方法：**在Stable Diffusion中，使用括號()可增加括號中prompt在畫面中的權重x1.1，\[] 可減小prompt權重x0.91。
+**prompt權重調整方法：**使用括號()可增加括號中prompt在畫面中的權重x1.1，\[] 可減小prompt權重x0.91。
 
-### Stable Diffusion Prompt格式優化
+### Prompt格式優化
 
-Stable Diffusion Prompt 優化步驟5步驟
+Prompt 優化步驟5步驟
 
 1.  **步驟1. 簡易換行用3段式表達**
 
@@ -36,7 +38,7 @@ Stable Diffusion Prompt 優化步驟5步驟
 
     不同模型（ckpt）對 Prompt 的敏感程度不同，一套完善的 prompt 在不同的模型中，表達效果會有差異。每個模型都有自己的特色，需根據模型特色，慢慢調試 prompt 組合。
 
-### Stable Diffusion prompt 範例
+### prompt 範例
 
 製作出好的prompt必須從問一系列問題開始：
 
@@ -47,8 +49,6 @@ Stable Diffusion Prompt 優化步驟5步驟
    環境。室內、室外、水下、太空中 **=>在天空中**\
    色彩方案。鮮豔、黑暗、柔和色調 **=>使用明亮的顏色**
 4. 畫面風格？3D渲染、吉卜力工作室、電影海報 **=> 3D渲染**
-
-#### 把決定好的關鍵字用逗點隔開，複製起來放到CHATGPT中，並加上『**請幫我翻譯成英文，這是要給Stable Diffusion使用的prompt**』
 
 <figure><img src="https://gooptions.cc/wp-content/uploads/2023/03/image-1-1024x363.png.webp" alt=""><figcaption></figcaption></figure>
 
@@ -67,13 +67,13 @@ Stable Diffusion Prompt 優化步驟5步驟
 
 ### Prompt 符號
 
-Stable Diffusion 和 機畫師 都提供了一些特殊的符號來幫助您更精確地控制圖像生成過程。以下是這些符號的使用方式：
+機畫師 都提供了一些特殊的符號來幫助您更精確地控制圖像生成過程。以下是這些符號的使用方式：
 
 “+” 和 “ AND ”：這兩個符號都用於連接短關鍵字，以表示您希望同時滿足這些條件。使用 “AND” 時，需要在兩端加上空格。例如『beach + sun glasses』 或 『beach AND sun glasses』。
 
 “|”：這是循環繪製符號（融合符號），用於在多個 Prompt 之間創建循環繪製效果。例如『(green hair：1.1) | (black hair：1.4)”』，Ai 會根據這些權重在 green hair 和 black hair 之間循環繪製，你就能得到黑綠漸層的髮色啦。
 
-括號：在 Stable Diffusion 中，使用括號 () 可以增加括號內 prompt 的權重 x1.1，而使用方括號 \[] 可以減小 prompt 的權重 x0.91。這有助於在生成圖像時更精確地控制各個元素的重要性。
+括號：在 機畫師 中，使用括號 () 可以增加括號內 prompt 的權重 x1.1，而使用方括號 \[] 可以減小 prompt 的權重 x0.91。這有助於在生成圖像時更精確地控制各個元素的重要性。
 
 使用這些符號和權重可以讓您更好地控制 Stable Diffusion 的生成。
 
@@ -105,9 +105,9 @@ Stable Diffusion 和 機畫師 都提供了一些特殊的符號來幫助您更�
 
 <figure><img src="https://gooptions.cc/wp-content/uploads/2023/03/image-5-1024x352.png.webp" alt=""><figcaption></figcaption></figure>
 
-#### 用 Stable Diffusion prompt 增強圖片細節
+#### 用 prompt 增強圖片細節
 
-使用合適的 Stable Diffusion prompt 可以有效地幫助圖片增加細節，以下是一些範例：
+使用合適的  prompt 可以有效地幫助圖片增加細節，以下是一些範例：
 
 **HDR**：HDR（高動態範圍）可以幫助圖像在明暗區域保留更多的細節，提高圖像的對比度和色彩豐富度，使圖片看起來更生動、立體。
 
