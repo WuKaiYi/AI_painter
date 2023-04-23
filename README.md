@@ -2,10 +2,10 @@
 description: Welcome to use AI Painter app.
 ---
 
-# 👋 歡迎使用機畫師-AI繪圖app
+# 👋 欢迎使用机画师-AI绘图app
 
 {% hint style="info" %}
-**教程正在編寫中...內容會慢慢豐富** \
+**教程正在編寫中...內容會慢慢豐富**\
 The tutorial is being written...the contents will be enriched gradually.
 {% endhint %}
 
@@ -13,6 +13,12 @@ The tutorial is being written...the contents will be enriched gradually.
 
 機畫師 基於開源的 Stable Diffusion 技術，搭建了一個APP服務器，和一個AI運算網絡，沒有使用雲服務器，所以成本會很低，訂閱費用也設置到了最低價。如果有任何不明白，APP優化建議推薦加入Discord討論。[https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)\
 Based on open source Stable Diffusion technology, Machine Artist set up an APP server and an AI computing network, without using cloud servers, so the cost is low and the subscription fee is set at the lowest price. If there is any confusion, APP optimization suggestions can join Discord discussion . [https://discord.gg/Zbe63QTU9X](https://discord.gg/Zbe63QTU9X)
+
+## 注意事項 Precautions/Points to Note.
+
+為了保護用戶隱私，我們不會收集與保存用戶生成和上傳的圖片，還有圖片生成記錄。如果卸載了APP，所有記錄將會清空。
+
+To protect user privacy, we will not collect and save user-generated and uploaded images, as well as image creation records. If the app is uninstalled, all records will be cleared.
 
 {% content-ref url="kuai-su-kai-shi/chang-jian-wen-ti.md" %}
 [chang-jian-wen-ti.md](kuai-su-kai-shi/chang-jian-wen-ti.md)
@@ -36,7 +42,7 @@ Based on open source Stable Diffusion technology, Machine Artist set up an APP s
 [tu-hui-tu-ji-ben.md](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
 {% endcontent-ref %}
 
-## English: 
+## English:
 
 ## Introduction
 
@@ -46,5 +52,5 @@ AI Painter is an AI drawing app based on open-source Stable Diffusion technology
 
 To quickly start using AI Painter, refer to the following links:
 
-- [Text to Image Generation and Basic Operation](kuai-su-kai-shi/wen-zi-sheng-cheng-tu-pian-ji-ben.md)
-- [Image Transformation and Basic Usage](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
+* [Text to Image Generation and Basic Operation](kuai-su-kai-shi/wen-zi-sheng-cheng-tu-pian-ji-ben.md)
+* [Image Transformation and Basic Usage](kuai-su-kai-shi/tu-hui-tu-ji-ben.md)
