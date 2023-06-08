@@ -1,4 +1,6 @@
-# ❓ 常見問題
+# ❓ 常见问题
+
+## ❓ 常見問題
 
 <details>
 
@@ -32,18 +34,19 @@
 
 </details>
 
-## English:
-# ❓ Frequently Asked Questions
+### English:
+
+## ❓ Frequently Asked Questions
 
 <details>
 
 <summary>Bad output image, full white or black image, or color block image</summary>
 
-Possible reasons for this issue are: 
+Possible reasons for this issue are:
 
-- Copying prompts directly from other platforms such as Midjourney, SD WebUI, or other apps.
-- Weight accumulation is too high, (greater than 1.5 and cumulative greater than 20).
-- The prompt is too long (more than 200 characters).
+* Copying prompts directly from other platforms such as Midjourney, SD WebUI, or other apps.
+* Weight accumulation is too high, (greater than 1.5 and cumulative greater than 20).
+* The prompt is too long (more than 200 characters).
 
 </details>
 
@@ -61,8 +64,7 @@ This could be due to the detection of inappropriate content related to child sex
 
 Possible reasons for this issue are:
 
-- Copying prompts directly from other platforms
-- Prompts containing unsupported commands such as LoRa or other drawing models.
+* Copying prompts directly from other platforms
+* Prompts containing unsupported commands such as LoRa or other drawing models.
 
 </details>
-

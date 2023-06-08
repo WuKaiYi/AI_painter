@@ -18,3 +18,4 @@
 ***
 
 * [Speech Synthesis Markup Language (SSML)](speech-synthesis-markup-language-ssml.md)
+* [⬇ 機畫師-下載鏈接(AI PAINTER-Download link)](ji-hua-shi-xia-zai-lian-jie-ai-painterdownload-link.md)
